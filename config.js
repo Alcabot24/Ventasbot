@@ -15,16 +15,16 @@ global.owner = [
 global.prems = ['51992004127']
 global.packname = '☯︎ 𝙱𝙾𝚃\n☯︎ 𝙾𝚆𝙽𝙴𝚁';
 global.author = 'ʜᴀᴄʜɪᴋᴏ-ʙᴏᴛ-ᴍᴅ\nʜᴀᴄʜᴇᴊᴏᴛᴀ';
-global.titulowm = ' ᕼᗩᑕᕼIKO-ᗷOT-ᗰᗪ';
+global.titulowm = ' 𝗔𝗟𝗖𝗔𝗕𝗢𝗧';
 global.wait = '*[❗] 𝙲𝙰𝚁𝙶𝙰𝙽𝙳𝙾 𝚂𝙴𝙰 𝙿𝙰𝙲𝙸𝙴𝙽𝚃𝙴...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
-global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
-global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png');
-global.imagen4 = fs.readFileSync('./Menu.png');
-global.imagen5 = fs.readFileSync('./src/+18.jpg');
-global.imagen6= fs.readFileSync('./Menu3.png');
-global.imagen7= fs.readFileSync('./src/hjbot.jpg');
+global.imagen2 = fs.readFileSync('./alca.png');
+global.imagen3 = fs.readFileSync('./alca.png');
+global.imagen4 = fs.readFileSync('./alca.png');
+global.imagen5 = fs.readFileSync('./alca.png');
+global.imagen6= fs.readFileSync('./alca.png');
+global.imagen7= fs.readFileSync('./alca.png');
 global.mods = [];
 global.fsizedoc = '999999'
 //* *******Tiempo***************
